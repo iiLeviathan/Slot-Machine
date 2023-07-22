@@ -4,9 +4,9 @@ Slot machine made with Python only.
 
 
 
-Feito juntamente com a ajuda de um tutorial. Foram feitas algumas mudanças por conta própria.
+Feito juntamente com a ajuda de um tutorial, foram feitas algumas mudanças por conta própria.
 
-Done with the help of a tutorial. Some changes were made on my own.
+Done with the help of a tutorial, some changes were made on my own.
 
 
 
